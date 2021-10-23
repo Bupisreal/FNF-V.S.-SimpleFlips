@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sunky.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bup down10000" x="0" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10001" x="909" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10002" x="1818" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10003" x="2727" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10004" x="3636" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10005" x="4545" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10006" x="5454" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10007" x="6363" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10008" x="7272" y="0" width="909" height="774"/>
+	<SubTexture name="bup down10009" x="0" y="774" width="909" height="774"/>
+	<SubTexture name="bup down10010" x="909" y="774" width="909" height="774"/>
+	<SubTexture name="bup down10011" x="1818" y="774" width="909" height="774"/>
+	<SubTexture name="bup idle10000" x="2727" y="774" width="919" height="774"/>
+	<SubTexture name="bup idle10001" x="3646" y="774" width="919" height="774"/>
+	<SubTexture name="bup idle10002" x="4565" y="774" width="919" height="774"/>
+	<SubTexture name="bup idle10003" x="5484" y="774" width="919" height="774"/>
+	<SubTexture name="bup idle10004" x="6403" y="774" width="919" height="774"/>
+	<SubTexture name="bup idle10005" x="0" y="1548" width="919" height="774"/>
+	<SubTexture name="bup idle10006" x="919" y="1548" width="919" height="774"/>
+	<SubTexture name="bup idle10007" x="1838" y="1548" width="919" height="774"/>
+	<SubTexture name="bup idle10008" x="2757" y="1548" width="919" height="774"/>
+	<SubTexture name="bup idle10009" x="3676" y="1548" width="919" height="774"/>
+	<SubTexture name="bup idle10010" x="4595" y="1548" width="919" height="774"/>
+	<SubTexture name="bup idle10011" x="5514" y="1548" width="919" height="774"/>
+	<SubTexture name="bup left10000" x="6433" y="1548" width="909" height="777"/>
+	<SubTexture name="bup left10001" x="0" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10002" x="909" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10003" x="1818" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10004" x="2727" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10005" x="3636" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10006" x="4545" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10007" x="5454" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10008" x="6363" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10009" x="7272" y="2325" width="909" height="777"/>
+	<SubTexture name="bup left10010" x="0" y="3102" width="909" height="777"/>
+	<SubTexture name="bup left10011" x="909" y="3102" width="909" height="777"/>
+	<SubTexture name="bup right10000" x="1818" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10001" x="2727" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10002" x="3636" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10003" x="4545" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10004" x="5454" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10005" x="6363" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10006" x="7272" y="3102" width="909" height="774"/>
+	<SubTexture name="bup right10007" x="0" y="3879" width="909" height="774"/>
+	<SubTexture name="bup right10008" x="909" y="3879" width="909" height="774"/>
+	<SubTexture name="bup right10009" x="1818" y="3879" width="909" height="774"/>
+	<SubTexture name="bup right10010" x="2727" y="3879" width="909" height="774"/>
+	<SubTexture name="bup right10011" x="3636" y="3879" width="909" height="774"/>
+	<SubTexture name="bup up10000" x="4545" y="3879" width="909" height="774"/>
+	<SubTexture name="bup up10001" x="5454" y="3879" width="909" height="774"/>
+	<SubTexture name="bup up10002" x="6363" y="3879" width="909" height="774"/>
+	<SubTexture name="bup up10003" x="7272" y="3879" width="909" height="774"/>
+	<SubTexture name="bup up10004" x="0" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10005" x="909" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10006" x="1818" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10007" x="2727" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10008" x="3636" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10009" x="4545" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10010" x="5454" y="4653" width="909" height="774"/>
+	<SubTexture name="bup up10011" x="6363" y="4653" width="909" height="774"/>
+</TextureAtlas>

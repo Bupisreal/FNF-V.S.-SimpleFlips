@@ -1,0 +1,5 @@
+Tutoroll:gf:1
+Walkies:simple:1
+Gbj:simple:1
+Adhesive:bup:1
+Blast:simple:2
